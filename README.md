@@ -294,5 +294,7 @@ Epoch 1/1
 ## 附录
 
 [1. 语料预处理（preprocess.py）](https://www.notion.so/1-preprocess-py-408531b1414248bfb2c556c2404c4540)
-
+	
 [2. 训练Seq2seq模型并生成新文本(main.py)](https://www.notion.so/2-Seq2seq-main-py-5b0ea96c8e9b4416bdad134a99d46d5d)
+	
+[3.预训练模型文件(saved_model.h5 提取码：x7j5)](https://pan.baidu.com/s/13HlAtBLdkQXWn9e9-pWz0Q)
